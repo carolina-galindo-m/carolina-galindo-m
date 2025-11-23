@@ -3,7 +3,9 @@
 
 ---
 
-📂 Featured Projects [Airline Passenger Satisfaction Analysis](https://github.com/carolina-galindo-m/Airline-Satisfaction-Analysis)
+📂 Featured Projects 
+- [Airline Passenger Satisfaction Analysis](https://github.com/carolina-galindo-m/Airline-Satisfaction-Analysis)
+- [SQL & ERD Design - Galaxy Entertainment Business Case](https://github.com/carolina-galindo-m/sql-portfolio-project)
 
 🌱 I’m currently working on: 
 - Expanding my portfolio with more end-to-end data analysis projects.
