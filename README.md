@@ -8,6 +8,7 @@
 - [SQL & ERD Design - Galaxy Entertainment Business Case](https://github.com/carolina-galindo-m/sql-portfolio-project)
 - [Glossier Case Study: Consumer Insights Digital Analytics](https://github.com/carolina-galindo-m/Consumer-Insights-Digital-Analytics-Case-Study-Glossier)
 - [ULTA Beauty Case Study: Financial Forecasting Insights](https://github.com/carolina-galindo-m/ULTA-Beauty-Financial-Forecasting-Strategic-Insights-Case-Study)
+- Gen Z Consumer Insights — Korn Ferry Challenge
 
 🌱 I’m currently working on: 
 - Expanding my portfolio with more end-to-end data analysis projects.
