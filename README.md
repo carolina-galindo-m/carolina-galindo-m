@@ -4,15 +4,16 @@
 ---
 
 📂 Featured Projects 
-- [Airline Passenger Satisfaction Analysis](https://github.com/carolina-galindo-m/Airline-Satisfaction-Analysis)
-- [SQL & ERD Design - Galaxy Entertainment Business Case](https://github.com/carolina-galindo-m/sql-portfolio-project)
+- [SDVOSB Federal Contracting Analysis](https://github.com/carolina-galindo-m/SDVOSB_Federal-Contracting-Analysis)
+- [Hospital Resource Utilization & Efficiency Analysis](https://github.com/carolina-galindo-m/hospital-resource-utilization-analysis)
 - [Glossier Case Study: Consumer Insights Digital Analytics](https://github.com/carolina-galindo-m/Consumer-Insights-Digital-Analytics-Case-Study-Glossier)
+- [Airline Satisfaction Analysis](https://github.com/carolina-galindo-m/Airline-Satisfaction-Analysis/blob/main/README.md)
 - [ULTA Beauty Case Study: Financial Forecasting Insights](https://github.com/carolina-galindo-m/ULTA-Beauty-Financial-Forecasting-Strategic-Insights-Case-Study)
 - [Gen Z Consumer Insights — Korn Ferry Challenge](https://github.com/carolina-galindo-m/Gen-Z-Consumer-Insights)
 
 🌱 I’m currently working on: 
-- Expanding my portfolio with more end-to-end data analysis projects.
-- Learning advanced SQL and machine learning techniques.
+- A machine‑learning model that authenticates luxury handbags for resale platforms, brand‑protection teams, and retailers by distinguishing genuine products from counterfeits. 
+- Neural Trend Detection for Beauty & Fashion Marketing
 - Preparing for internship opportunities in 2026.
 
 💡 Open to Opportunities: 
