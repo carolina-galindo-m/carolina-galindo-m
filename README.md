@@ -18,6 +18,7 @@
 - Actively looking for internship opportunities for the summer of 2026.
 
 💡 Open to Opportunities: 
+
 **I'm actively looking for **internships** where I can apply my business analytics skills to real-world challenges. 
 If you have feedback on my projects or a collaboration idea. Feel free to connect!**
 
