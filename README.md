@@ -12,9 +12,10 @@
 - [Gen Z Consumer Insights — Korn Ferry Challenge](https://github.com/carolina-galindo-m/Gen-Z-Consumer-Insights)
 
 🌱 I’m currently working on: 
+- [OR Block Utilization Gap Finder](https://github.com/carolina-galindo-m/OR-Block-Utilization-Gap-Finder/tree/main)
 - A machine‑learning model that authenticates luxury handbags for resale platforms, brand‑protection teams, and retailers by distinguishing genuine products from counterfeits. 
 - Neural Trend Detection for Beauty & Fashion Marketing
-- Preparing for internship opportunities in 2026.
+- Actively looking for internship opportunities in the summer of 2026.
 
 💡 Open to Opportunities: 
 **I'm actively looking for **internships** where I can apply my business analytics skills to real-world challenges. 
