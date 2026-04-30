@@ -15,11 +15,11 @@
 - [OR Block Utilization Gap Finder](https://github.com/carolina-galindo-m/OR-Block-Utilization-Gap-Finder/tree/main)
 - [Neural Trend Detection for USA Beauty Market](https://github.com/carolina-galindo-m/Neural-Trend-Detection-for-USA-Beauty-Market/tree/main)
 - A machine‑learning model that authenticates luxury handbags for resale platforms, brand‑protection teams, and retailers by distinguishing genuine products from counterfeits. 
-- Actively looking for internship opportunities in the summer of 2026.
+- Actively looking for internship opportunities for the summer of 2026.
 
 💡 Open to Opportunities: 
 **I'm actively looking for **internships** where I can apply my business analytics skills to real-world challenges. 
-If you have feedback on my projects or a collaboration idea — feel free to connect!**
+If you have feedback on my projects or a collaboration idea. Feel free to connect!**
 
 📫 How to reach me **carolina.galindo21@hotmail.com**
 
